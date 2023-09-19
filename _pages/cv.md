@@ -18,14 +18,10 @@ Education
 Work experience
 ======
 * 2022-2023: INVISTA: Process Engineer, Batch Polymer
-  * Duties included: Tagging issues
 
 * June 2021 - December 2021: RIVIAN, Design for Reliability Engineer
-  * Duties included: Merging pull requests
  
 * August 2019 - June 2021: National Research Council Canada (NRC), Technical Officer
-  * Security and Disruptive Technologies Directorate
-  * Duties included: Merging pull requests
   
 Skills
 ======
