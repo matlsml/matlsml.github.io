@@ -19,9 +19,11 @@ Work experience
 ======
 * 2022-2023: INVISTA: Process Engineer, Batch Polymer
 
-* June 2021 - December 2021: RIVIAN, Design for Reliability Engineer
+* 2021: RIVIAN, Design for Reliability Engineer
  
-* August 2019 - June 2021: National Research Council Canada (NRC), Technical Officer
+* 2019 - 2021: National Research Council Canada (NRC), Technical Officer
+
+* 2014 - 2019: Alcereco/Grafoid, Materials Scientist/Project Lead
   
 Skills
 ======
