@@ -23,7 +23,7 @@ Work experience
 * June 2021 - December 2021: RIVIAN, Design for Reliability Engineer
   * Duties included: Merging pull requests
  
-* August 2019 - June 2021:ational Research Council Canada (NRC), Technical Officer
+* August 2019 - June 2021: National Research Council Canada (NRC), Technical Officer
   * Security and Disruptive Technologies Directorate
   * Duties included: Merging pull requests
   
