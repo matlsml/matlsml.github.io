@@ -17,14 +17,15 @@ Education
 
 Work experience
 ======
-* 2022-2023: INVISTA: Process Engineer, Batch Polymer
+* 2022-2023: INVISTA
+  * Process Engineer, Batch Polymer
+* 2021: RIVIAN
+   * Design for Reliability Engineer
+* 2019 - 2021: National Research Council of Canada (NRC), Security and Disruptive Technologies
+  * Technical Officer, Nanomaterials Characterization
+* 2014 - 2019: Alcereco/Grafoid
+    * Materials Scientist/Project Lead
 
-* 2021: RIVIAN, Design for Reliability Engineer
- 
-* 2019 - 2021: National Research Council Canada (NRC), Technical Officer
-
-* 2014 - 2019: Alcereco/Grafoid, Materials Scientist/Project Lead
-  
 Skills
 ======
 * Skill 1
