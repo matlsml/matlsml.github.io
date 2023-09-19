@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Materials Science and Engineerinh, McMaster University, 2013
+* B.Eng. in Materials Science and Engineering, McMaster University, 2013
 * M.A.Sc. in Chemical Engineering, Queen's University, 2017
-#* Ph.D in Mechanical and Materials Engineering, Queen's University, 2027 (expected)
 
 Work experience
 ======
@@ -25,7 +24,7 @@ Work experience
   * RIVIAN
   * Duties included: Merging pull requests
  
- * August 2019 - June 2021: Technical Officer, Security and Disruptive Technologies
+* August 2019 - June 2021: Technical Officer, Security and Disruptive Technologies
   * National Research Council Canada (NRC)
   * Duties included: Merging pull requests
   
