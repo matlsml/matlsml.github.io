@@ -11,21 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Materials Science and Engineerinh, McMaster University, 2013
+* M.A.Sc. in Chemical Engineering, Queen's University, 2017
+#* Ph.D in Mechanical and Materials Engineering, Queen's University, 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2022-2023: Process Engineer, Batch Polymer
+  * INVISTA
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* June 2021 - December 2021: Design for Reliability Engineer
+  * RIVIAN
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+ 
+ * August 2019 - June 2021: Technical Officer, Security and Disruptive Technologies
+  * National Research Council Canada (NRC)
+  * Duties included: Merging pull requests
   
 Skills
 ======
