@@ -13,19 +13,18 @@ Education
 ======
 * B.Eng. in Materials Science and Engineering, McMaster University, 2013
 * M.A.Sc. in Chemical Engineering, Queen's University, 2017
+* Ph.D. in Materials and Mechanical Engineering, Queen's University, In Progress (2023 - 2027 anticipated)
 
 Work experience
 ======
-* 2022-2023: Process Engineer, Batch Polymer
-  * INVISTA
+* 2022-2023: INVISTA: Process Engineer, Batch Polymer
   * Duties included: Tagging issues
 
-* June 2021 - December 2021: Design for Reliability Engineer
-  * RIVIAN
+* June 2021 - December 2021: RIVIAN, Design for Reliability Engineer
   * Duties included: Merging pull requests
  
-* August 2019 - June 2021: Technical Officer, Security and Disruptive Technologies
-  * National Research Council Canada (NRC)
+* August 2019 - June 2021:ational Research Council Canada (NRC), Technical Officer
+  * Security and Disruptive Technologies Directorate
   * Duties included: Merging pull requests
   
 Skills
